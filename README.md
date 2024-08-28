@@ -2,15 +2,8 @@
 
 - 👀 I'm interested in development, technologies, management knowledge and the like.
 - 🌱 Full developer 
-- 💞️ Collaborator of QuasarSpace.
-- 📫 Contact via gabrielmuniz@quasarspace.com.br.
 
-###
-<div> 
-  <a href = "mailto:gabrielmuniz@quasarspace.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-#### ⚡ Stacks for QuasarSpace:
+#### ⚡ Stacks:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
